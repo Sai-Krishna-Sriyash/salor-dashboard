@@ -1,3 +1,6 @@
+<img width="3200" height="1166" alt="image" src="https://github.com/user-attachments/assets/331fbcc1-75e9-42ab-a81c-b6f8ee86773e" />
+
+
 Salor
 Automated AI negotiation for freight logistics. Built for the HappyRobot Challenge at the TUM Makeathon 2026.
 
